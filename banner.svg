@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="t d">
+  <title id="t">Belva YONTA · Portfolio Data et IA</title>
+  <desc id="d">Élève ingénieure Data et IA à l'EFREI Paris, disponible immédiatement en alternance. Cliquer pour voir le portfolio.</desc>
+  <rect width="1280" height="320" rx="24" fill="#0A0A0A"/>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <circle cx="80" cy="76" r="6" fill="#93B4FF"/>
+    <text x="96" y="82" font-size="20" font-weight="600" fill="#93B4FF">Disponible immédiatement en alternance · 3 j entreprise / 2 j école</text>
+    <text x="72" y="170" font-size="76" font-weight="700" fill="#FFFFFF" letter-spacing="-2">Belva YONTA</text>
+    <text x="74" y="222" font-size="28" fill="#D4D4D4">Élève ingénieure Data et IA · EFREI Paris · Big Data et Machine Learning</text>
+    <rect x="928" y="244" width="280" height="52" rx="26" fill="#FFFFFF"/>
+    <text x="1068" y="277" font-size="22" font-weight="700" fill="#0A0A0A" text-anchor="middle">Voir mon portfolio →</text>
+  </g>
+  <g fill="none" stroke="#262626" stroke-width="2">
+    <circle cx="1128" cy="96" r="44"/>
+    <circle cx="1128" cy="96" r="72"/>
+  </g>
+  <circle cx="1128" cy="96" r="10" fill="#1D4ED8"/>
+</svg>
