@@ -15,6 +15,7 @@ Je cherche une **alternance disponible immédiatement**, au rythme de 3 jours en
 | **Recherche sémantique d'offres d'alternance** | Embeddings et pgvector (moins de 7 ms sur 4 000 offres), deux agents, plus de 500 tests | [Code](https://github.com/KYSyB2006/alternance-finder) |
 | **MediConnect**, de la base au tableau de bord | MySQL, MongoDB, Power BI : un écart offre / demande révélé sur les spécialités médicales | [Étude de cas](https://kysyb2006.github.io/mediconnect-portfolio/) |
 | **Agent de jeu Teeko** | Règles en Prolog et heuristique d'évaluation pour un moteur Alpha-Beta | [Étude de cas](https://kysyb2006.github.io/teeko-portfolio/) |
+| **PLAY & LEARN**, jeu éducatif pour les 10-12 ans (IHM) | Étude de la cible, évaluation chiffrée d'un concurrent (SUS 47,5), HTA, SADT, maquettes | [Étude de cas](https://kysyb2006.github.io/play-and-learn-portfolio/) |
 
 ### Outils
 
